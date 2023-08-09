@@ -1,4 +1,4 @@
-I want to create a library for message queues that support consumer groups, the library must provide
+Library for message queues that support consumer groups, the library must provide
 
 **Create** an in memory message queue -
 
